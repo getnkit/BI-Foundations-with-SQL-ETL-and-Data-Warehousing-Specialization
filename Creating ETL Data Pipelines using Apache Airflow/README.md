@@ -7,3 +7,7 @@ In this assignment you will author an Apache Airflow DAG that will:
 - Extract data from a fixed width file
 - Transform the data
 - Load the transformed data into the staging area
+# Results
+![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/0785c90c2d0bcfd2f5a6be0a946d9e47021cc19e/Creating%20ETL%20Data%20Pipelines%20using%20Apache%20Airflow/images/dag_runs.jpg)
+
+![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/07883301c32b8472f7185764b454da9dd66b80a2/Creating%20ETL%20Data%20Pipelines%20using%20Apache%20Airflow/images/dag_runs_workflow.jpg)
