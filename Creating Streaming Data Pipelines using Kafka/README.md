@@ -13,3 +13,10 @@ In this assignment you will create a streaming data pipe by performing these ste
 - Download and customise streaming data consumer.
 - Customize the consumer program to write into a MySQL database table.
 - Verify that streamed data is being collected in the database table.
+# Results
+Start zookeeper server
+Start Kafka server
+Create a Kakfa topic named ```toll```
+Run the ```toll_traffic_generator.py```
+Run the ```streaming_data_reader.py```
+Health check of the streaming data pipeline.
