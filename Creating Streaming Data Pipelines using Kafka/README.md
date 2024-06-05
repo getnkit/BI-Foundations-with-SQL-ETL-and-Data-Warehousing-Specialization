@@ -34,6 +34,6 @@ In this assignment you will create a streaming data pipe by performing these ste
 
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/a385aa6e0045b26437f492bc6844c3a41d65b487/Creating%20Streaming%20Data%20Pipelines%20using%20Kafka/images/data_reader_output.jpg)
 
-### Health check of the streaming data pipeline.
+### Health check of the streaming data pipeline. 
 
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/a385aa6e0045b26437f492bc6844c3a41d65b487/Creating%20Streaming%20Data%20Pipelines%20using%20Kafka/images/output_rows.jpg)
