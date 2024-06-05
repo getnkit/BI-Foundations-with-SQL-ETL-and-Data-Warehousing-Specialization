@@ -76,4 +76,3 @@ You will start your project by designing a Star Schema warehouse by identifying 
 
 
 
-
