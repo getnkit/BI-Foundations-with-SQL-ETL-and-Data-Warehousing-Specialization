@@ -69,7 +69,7 @@ You will start your project by designing a Star Schema warehouse by identifying 
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/35f1cbed26f6bf4b22e547dd892766e1eaacbad0/Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics/images/19-line.jpg)
 
 ### Step 14: Create a pie chart that shows the waste collected by city.
-
+ 
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/35f1cbed26f6bf4b22e547dd892766e1eaacbad0/Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics/images/20-pie.jpg)
 
 
