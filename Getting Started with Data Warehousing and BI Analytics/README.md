@@ -135,6 +135,7 @@ Create Materialized Query Tables (MQTs) to store the results of frequently used 
  
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/35f1cbed26f6bf4b22e547dd892766e1eaacbad0/Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics/images/20-pie.jpg)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Summary
 This project will enable the waste management company to utilize data for making more informed decisions and improving operational efficiency. This includes optimizing collection routes, allocating garbage trucks effectively, enhancing recycling efficiency, and minimizing environmental impact.
 
