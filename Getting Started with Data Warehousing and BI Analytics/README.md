@@ -1,4 +1,5 @@
-# Scenario
+# Solid Waste Data Warehousing and Analytics with PostgreSQL and Looker Studio
+## Scenario
 You are a data engineer hired by a solid waste management company. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like
 - total waste collected per year per city
 - total waste collected per month per city
@@ -7,14 +8,14 @@ You are a data engineer hired by a solid waste management company. The company c
 - total waste collected per trucktype per city
 - total waste collected per trucktype per station per city
 You will use your data warehousing skills to design and implement a data warehouse for the company.
-# Objectives
+## Objectives
 In this assignment you will:
 - Design a Data Warehouse
 - Load data into Data Warehouse
 - Write aggregation queries
 - Create MQTs
 - Create a Dashboard
-# Results
+## Results
 The solid waste management company has provied you the sample data they wish to collect.
 
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/6671ec380828d846ce243499ea8fcb5cee5b2b5f/Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics/images/solid-waste-trips-new.png)
