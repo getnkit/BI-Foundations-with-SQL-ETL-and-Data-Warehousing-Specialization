@@ -15,6 +15,9 @@ In this assignment you will:
 - Write aggregation queries
 - Create MQTs
 - Create a Dashboard
+## Project Overview
+In summary, this project will involve designing a Star Schema architecture for data storage, followed by creating the data warehouse structure, loading data, analyzing it with various queries, creating MQTs for improved processing efficiency, and finally, presenting the data through a dashboard with various types of charts.
+
 ## Results
 The solid waste management company has provied you the sample data they wish to collect.
 
