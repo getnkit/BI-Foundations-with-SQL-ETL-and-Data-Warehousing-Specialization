@@ -1,5 +1,4 @@
-# Solid Waste Data Warehousing and Analytics with PostgreSQL and Looker Studio
-
+# Solid-Waste-Data-Warehousing-and-Analytics-with-PostgreSQL-and-Looker-Studio
 ## Scenario
 You are a data engineer hired by a solid waste management company. The company collects and recycles solid waste across major cities in the country of Brazil. The company operates hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like
 - total waste collected per year per city
@@ -136,8 +135,37 @@ Create Materialized Query Tables (MQTs) to store the results of frequently used 
 ![image](https://github.com/getnkit/BI-Foundations-with-SQL-ETL-and-Data-Warehousing-Specialization/blob/35f1cbed26f6bf4b22e547dd892766e1eaacbad0/Getting%20Started%20with%20Data%20Warehousing%20and%20BI%20Analytics/images/20-pie.jpg)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Summary
+## Conclusion
 This project will enable the waste management company to utilize data for making more informed decisions and improving operational efficiency. This includes optimizing collection routes, allocating garbage trucks effectively, enhancing recycling efficiency, and minimizing environmental impact.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Key Takeaways
+### Why PostgreSQL as a Data Warehouse?
+#### Benefits
+Postgres as Data Warehouse leverages OLTP and OLAP to manage streamlined communications between databases. For example, it’s easier to store the data and communicate with databases using OLTP using OLAP. These features make PostgreSQL an organization’s favorite for OLAP as a data warehouse.
 
+Data warehouse with Postgresql involves capabilities to handle large volumes of data  and efficiently support analytical queries. PostgreSQL for data warehouse offers a balance between relational database features and analytical processing capabilities.
+
+Furthermore, PostgreSQL Data Warehouse provides the following benefits: 
+- High Compatibility - able to work seamlessly with various programming languages such as Python, Java, C++.
+- Open-source; Free - helps save costs, suitable for startups and data professionals.
+- Highly Scalable and Optimized Performance compared to traditional databases.
+
+#### Limitations & Challenges
+PostgreSQL for a data warehouse is the popular choice, but it’s hard to manage, and challenges do come at the start. Hence, some limitations for PostgreSQL Data Warehouse are as follows: 
+- May experience compatibility issues (Bugs & Dependencies) between certain programming languages or hardware devices.
+- Security Concerns due to being open-source with publicly accessible source code.
+- Load-balancing may become complicated as the system scales up.
+- Technical support may be delayed if an urgent issue requires immediate resolution.
+
+### Utilizing PostgreSQL for this Project
+Choosing PostgreSQL for the solid waste management company's data warehouse project is especially suitable due to its support for both OLTP and OLAP systems, as detailed below:
+
+OLTP (Online Transaction Processing)
+- The company's operations require real-time recording of waste movement and storage data at the operational level. This includes information such as truck routes, collection frequency, and the amount of waste transported.
+- PostgreSQL excels in OLTP processing, enabling it to efficiently handle real-time transaction data from multiple sources simultaneously.
+
+OLAP (Online Analytical Processing)
+- The purpose of the data warehouse is to enable high-level data analysis, such as optimizing transportation routes, forecasting waste volumes in different areas for workforce planning, etc.
+- PostgreSQL is capable of processing large volumes of data for OLAP analysis seamlessly. It supports advanced SQL commands, indexing, and parallel processing.
 
